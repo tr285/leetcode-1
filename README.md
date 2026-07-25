@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/tr285/leetcode-1/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tr285/leetcode-1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tr285/leetcode-1/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
