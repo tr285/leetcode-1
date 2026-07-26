@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/tr285/leetcode-1/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tr285/leetcode-1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tr285/leetcode-1/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/tr285/leetcode-1/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tr285/leetcode-1/tree/master/0392-is-subsequence) |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
 ## Trie
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tr285/leetcode-1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tr285/leetcode-1/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/tr285/leetcode-1/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/tr285/leetcode-1/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
 ## Math
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/tr285/leetcode-1/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
