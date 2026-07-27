@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tr285/leetcode-1/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tr285/leetcode-1/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/tr285/leetcode-1/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/tr285/leetcode-1/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tr285/leetcode-1/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/tr285/leetcode-1/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tr285/leetcode-1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tr285/leetcode-1/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tr285/leetcode-1/tree/master/0509-fibonacci-number) |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tr285/leetcode-1/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/tr285/leetcode-1/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tr285/leetcode-1/tree/master/0054-spiral-matrix) |
 ## Heap (Priority Queue)
 |  |
