@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tr285/leetcode-1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/tr285/leetcode-1/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/tr285/leetcode-1/tree/master/0209-minimum-size-subarray-sum) |
+| [0289-game-of-life](https://github.com/tr285/leetcode-1/tree/master/0289-game-of-life) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0746-min-cost-climbing-stairs) |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/tr285/leetcode-1/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/tr285/leetcode-1/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/tr285/leetcode-1/tree/master/0289-game-of-life) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tr285/leetcode-1/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tr285/leetcode-1/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tr285/leetcode-1/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/tr285/leetcode-1/tree/master/0289-game-of-life) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
