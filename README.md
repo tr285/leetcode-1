@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tr285/leetcode-1/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/tr285/leetcode-1/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/tr285/leetcode-1/tree/master/0289-game-of-life) |
+| [0724-find-pivot-index](https://github.com/tr285/leetcode-1/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0746-min-cost-climbing-stairs) |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tr285/leetcode-1/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/tr285/leetcode-1/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
