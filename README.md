@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tr285/leetcode-1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tr285/leetcode-1/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tr285/leetcode-1/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/tr285/leetcode-1/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tr285/leetcode-1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/tr285/leetcode-1/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tr285/leetcode-1/tree/master/0392-is-subsequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tr285/leetcode-1/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/tr285/leetcode-1/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tr285/leetcode-1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tr285/leetcode-1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tr285/leetcode-1/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/tr285/leetcode-1/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/tr285/leetcode-1/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/tr285/leetcode-1/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tr285/leetcode-1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/tr285/leetcode-1/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
