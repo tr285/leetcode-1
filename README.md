@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tr285/leetcode-1/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/tr285/leetcode-1/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tr285/leetcode-1/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/tr285/leetcode-1/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/tr285/leetcode-1/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/tr285/leetcode-1/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/tr285/leetcode-1/tree/master/0073-set-matrix-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tr285/leetcode-1/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tr285/leetcode-1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tr285/leetcode-1/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/tr285/leetcode-1/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/tr285/leetcode-1/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/tr285/leetcode-1/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tr285/leetcode-1/tree/master/0125-valid-palindrome) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tr285/leetcode-1/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/tr285/leetcode-1/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tr285/leetcode-1/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tr285/leetcode-1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tr285/leetcode-1/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tr285/leetcode-1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tr285/leetcode-1/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/tr285/leetcode-1/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/tr285/leetcode-1/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tr285/leetcode-1/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/tr285/leetcode-1/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/tr285/leetcode-1/tree/master/0205-isomorphic-strings) |
