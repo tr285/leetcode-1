@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tr285/leetcode-1/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/tr285/leetcode-1/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/tr285/leetcode-1/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/tr285/leetcode-1/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tr285/leetcode-1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/tr285/leetcode-1/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/tr285/leetcode-1/tree/master/0209-minimum-size-subarray-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tr285/leetcode-1/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tr285/leetcode-1/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/tr285/leetcode-1/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/tr285/leetcode-1/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/tr285/leetcode-1/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tr285/leetcode-1/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/tr285/leetcode-1/tree/master/0219-contains-duplicate-ii) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tr285/leetcode-1/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tr285/leetcode-1/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
