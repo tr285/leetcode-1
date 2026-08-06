@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/tr285/leetcode-1/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/tr285/leetcode-1/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/tr285/leetcode-1/tree/master/0289-game-of-life) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tr285/leetcode-1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0724-find-pivot-index](https://github.com/tr285/leetcode-1/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0746-min-cost-climbing-stairs) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tr285/leetcode-1/tree/master/0011-container-with-most-water) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tr285/leetcode-1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tr285/leetcode-1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tr285/leetcode-1/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tr285/leetcode-1/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/tr285/leetcode-1/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tr285/leetcode-1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tr285/leetcode-1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tr285/leetcode-1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
