@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tr285/leetcode-1/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/tr285/leetcode-1/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tr285/leetcode-1/tree/master/0202-happy-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tr285/leetcode-1/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/tr285/leetcode-1/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tr285/leetcode-1/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/tr285/leetcode-1/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
