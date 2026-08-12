@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tr285/leetcode-1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tr285/leetcode-1/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tr285/leetcode-1/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/tr285/leetcode-1/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/tr285/leetcode-1/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tr285/leetcode-1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/tr285/leetcode-1/tree/master/0383-ransom-note) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tr285/leetcode-1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/tr285/leetcode-1/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/tr285/leetcode-1/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/tr285/leetcode-1/tree/master/0509-fibonacci-number) |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
 | [1137-n-th-tribonacci-number](https://github.com/tr285/leetcode-1/tree/master/1137-n-th-tribonacci-number) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tr285/leetcode-1/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/tr285/leetcode-1/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/tr285/leetcode-1/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/tr285/leetcode-1/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tr285/leetcode-1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tr285/leetcode-1/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/tr285/leetcode-1/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
 |  |
 | ------- |
