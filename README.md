@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tr285/leetcode-1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tr285/leetcode-1/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/tr285/leetcode-1/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/tr285/leetcode-1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tr285/leetcode-1/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/tr285/leetcode-1/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tr285/leetcode-1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tr285/leetcode-1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tr285/leetcode-1/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/tr285/leetcode-1/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tr285/leetcode-1/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/tr285/leetcode-1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tr285/leetcode-1/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tr285/leetcode-1/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tr285/leetcode-1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tr285/leetcode-1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tr285/leetcode-1/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tr285/leetcode-1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tr285/leetcode-1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tr285/leetcode-1/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tr285/leetcode-1/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tr285/leetcode-1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/tr285/leetcode-1/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tr285/leetcode-1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/tr285/leetcode-1/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/tr285/leetcode-1/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/tr285/leetcode-1/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/tr285/leetcode-1/tree/master/0509-fibonacci-number) |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
 | [1137-n-th-tribonacci-number](https://github.com/tr285/leetcode-1/tree/master/1137-n-th-tribonacci-number) |
@@ -254,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tr285/leetcode-1/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/tr285/leetcode-1/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
