@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tr285/leetcode-1/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tr285/leetcode-1/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tr285/leetcode-1/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tr285/leetcode-1/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tr285/leetcode-1/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/tr285/leetcode-1/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tr285/leetcode-1/tree/master/0057-insert-interval) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tr285/leetcode-1/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tr285/leetcode-1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tr285/leetcode-1/tree/master/0198-house-robber) |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/tr285/leetcode-1/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tr285/leetcode-1/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tr285/leetcode-1/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
