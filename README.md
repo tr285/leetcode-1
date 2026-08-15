@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0746-min-cost-climbing-stairs) |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tr285/leetcode-1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/tr285/leetcode-1/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tr285/leetcode-1/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/tr285/leetcode-1/tree/master/1920-build-array-from-permutation) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/tr285/leetcode-1/tree/master/2644-find-the-maximum-divisibility-score) |
