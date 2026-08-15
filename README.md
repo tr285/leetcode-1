@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tr285/leetcode-1/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tr285/leetcode-1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tr285/leetcode-1/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/tr285/leetcode-1/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tr285/leetcode-1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tr285/leetcode-1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/tr285/leetcode-1/tree/master/0198-house-robber) |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tr285/leetcode-1/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/tr285/leetcode-1/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
