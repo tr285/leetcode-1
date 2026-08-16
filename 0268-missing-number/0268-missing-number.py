@@ -5,9 +5,10 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        total =n*(n+1)//2
-        current = 0
+        curr =nums[0]
+        total = n*(n+1)//2
         for num in nums:
-            current+=num
+            total=total-num
+        return total
+  
 
-        return total -current
