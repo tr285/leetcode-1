@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0746-min-cost-climbing-stairs) |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
+| [0994-rotting-oranges](https://github.com/tr285/leetcode-1/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tr285/leetcode-1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/tr285/leetcode-1/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tr285/leetcode-1/tree/master/1480-running-sum-of-1d-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tr285/leetcode-1/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tr285/leetcode-1/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/tr285/leetcode-1/tree/master/0289-game-of-life) |
+| [0994-rotting-oranges](https://github.com/tr285/leetcode-1/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tr285/leetcode-1/tree/master/0053-maximum-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/tr285/leetcode-1/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
