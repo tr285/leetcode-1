@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tr285/leetcode-1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tr285/leetcode-1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/tr285/leetcode-1/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/tr285/leetcode-1/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tr285/leetcode-1/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tr285/leetcode-1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tr285/leetcode-1/tree/master/0219-contains-duplicate-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tr285/leetcode-1/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tr285/leetcode-1/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tr285/leetcode-1/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/tr285/leetcode-1/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/tr285/leetcode-1/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/tr285/leetcode-1/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tr285/leetcode-1/tree/master/0994-rotting-oranges) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tr285/leetcode-1/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/tr285/leetcode-1/tree/master/0200-number-of-islands) |
 ## Quicksort
 |  |
 | ------- |
@@ -275,10 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tr285/leetcode-1/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tr285/leetcode-1/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tr285/leetcode-1/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tr285/leetcode-1/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tr285/leetcode-1/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
