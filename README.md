@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/tr285/leetcode-1/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/tr285/leetcode-1/tree/master/1920-build-array-from-permutation) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/tr285/leetcode-1/tree/master/2644-find-the-maximum-divisibility-score) |
+| [2815-max-pair-sum-in-an-array](https://github.com/tr285/leetcode-1/tree/master/2815-max-pair-sum-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/tr285/leetcode-1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/tr285/leetcode-1/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
+| [2815-max-pair-sum-in-an-array](https://github.com/tr285/leetcode-1/tree/master/2815-max-pair-sum-in-an-array) |
 ## Math
 |  |
 | ------- |
