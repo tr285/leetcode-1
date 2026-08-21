@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/tr285/leetcode-1/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tr285/leetcode-1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/tr285/leetcode-1/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/tr285/leetcode-1/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/tr285/leetcode-1/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tr285/leetcode-1/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/tr285/leetcode-1/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/tr285/leetcode-1/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/tr285/leetcode-1/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/tr285/leetcode-1/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
