@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tr285/leetcode-1/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/tr285/leetcode-1/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tr285/leetcode-1/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0560-subarray-sum-equals-k](https://github.com/tr285/leetcode-1/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tr285/leetcode-1/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tr285/leetcode-1/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tr285/leetcode-1/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tr285/leetcode-1/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/tr285/leetcode-1/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tr285/leetcode-1/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/tr285/leetcode-1/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tr285/leetcode-1/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tr285/leetcode-1/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/tr285/leetcode-1/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/tr285/leetcode-1/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
 | [2815-max-pair-sum-in-an-array](https://github.com/tr285/leetcode-1/tree/master/2815-max-pair-sum-in-an-array) |
 ## Math
