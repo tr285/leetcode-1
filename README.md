@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/tr285/leetcode-1/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/tr285/leetcode-1/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/tr285/leetcode-1/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/tr285/leetcode-1/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tr285/leetcode-1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tr285/leetcode-1/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tr285/leetcode-1/tree/master/0136-single-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tr285/leetcode-1/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tr285/leetcode-1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tr285/leetcode-1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/tr285/leetcode-1/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tr285/leetcode-1/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tr285/leetcode-1/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/tr285/leetcode-1/tree/master/0151-reverse-words-in-a-string) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tr285/leetcode-1/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/tr285/leetcode-1/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tr285/leetcode-1/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/tr285/leetcode-1/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tr285/leetcode-1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tr285/leetcode-1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tr285/leetcode-1/tree/master/0268-missing-number) |
