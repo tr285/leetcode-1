@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0746-min-cost-climbing-stairs) |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
+| [0875-koko-eating-bananas](https://github.com/tr285/leetcode-1/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/tr285/leetcode-1/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tr285/leetcode-1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/tr285/leetcode-1/tree/master/1470-shuffle-the-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tr285/leetcode-1/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tr285/leetcode-1/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/tr285/leetcode-1/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tr285/leetcode-1/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
