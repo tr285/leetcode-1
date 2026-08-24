@@ -1,22 +1,20 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        stack = []
-        pairs = {
-            ')': '(',
-            '}': '{',
-            ']': '['
-        }
-
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack =[]
         for ch in s:
-            if ch in "({[":
+            if ch =='(' or ch =='[' or ch =='{':
                 stack.append(ch)
             else:
-                if not stack or stack[-1] != pairs[ch]:
+                if(len(stack))==0:
                     return False
-                stack.pop()
+                top = stack.pop()
+                if ch ==')' and top !='(':
+                    return False
+                if ch =='}' and top !='{':
+                    return False
+                if ch ==']' and top !='[':
+                    return False
+        if len(stack)==0:
+            return True
+        return False
 
-        return not stack
