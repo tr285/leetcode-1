@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tr285/leetcode-1/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tr285/leetcode-1/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tr285/leetcode-1/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/tr285/leetcode-1/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/tr285/leetcode-1/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tr285/leetcode-1/tree/master/0746-min-cost-climbing-stairs) |
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tr285/leetcode-1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tr285/leetcode-1/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/tr285/leetcode-1/tree/master/0224-basic-calculator) |
+| [0739-daily-temperatures](https://github.com/tr285/leetcode-1/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/tr285/leetcode-1/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tr285/leetcode-1/tree/master/0733-flood-fill) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tr285/leetcode-1/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
