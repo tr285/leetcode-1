@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/tr285/leetcode-1/tree/master/1920-build-array-from-permutation) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/tr285/leetcode-1/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2815-max-pair-sum-in-an-array](https://github.com/tr285/leetcode-1/tree/master/2815-max-pair-sum-in-an-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tr285/leetcode-1/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/tr285/leetcode-1/tree/master/0843-guess-the-word) |
 | [1137-n-th-tribonacci-number](https://github.com/tr285/leetcode-1/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tr285/leetcode-1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/tr285/leetcode-1/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
 | ------- |
