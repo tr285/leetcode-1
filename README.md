@@ -351,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tr285/leetcode-1/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/tr285/leetcode-1/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
