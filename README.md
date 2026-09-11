@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tr285/leetcode-1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1845-seat-reservation-manager](https://github.com/tr285/leetcode-1/tree/master/1845-seat-reservation-manager) |
 ## Counting Sort
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tr285/leetcode-1/tree/master/0155-min-stack) |
+| [1845-seat-reservation-manager](https://github.com/tr285/leetcode-1/tree/master/1845-seat-reservation-manager) |
 ## Bit Manipulation
 |  |
 | ------- |
